@@ -16,6 +16,8 @@ Change the standard appearance of fences in Minecraft. <p align="right">
 
 ## Fences
 
+Mine fences is a small texture pack that changes the original appearance of fences in Minecraft to a new one. Suitable for any resolution.
+
 ### acacia
 
 | fence    | preview                          |
