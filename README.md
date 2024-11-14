@@ -12,7 +12,7 @@ MCTPMS - 3d textures for minecraft (Java Edition). Mine fences is a small textur
 
 ## Fence and gate
 
-![https://www.planetminecraft.com/texture-pack/mine-fences/](https://img.shields.io/badge/DOWNLOAD_PACK-.zip-41b883)
+[![download][download-badge]][download-link]
 
 | fence and gate | preview                                                                                           |
 | -------------- | ------------------------------------------------------------------------------------------------- |
@@ -46,3 +46,8 @@ MCTPMS - 3d textures for minecraft (Java Edition). Mine fences is a small textur
 ## License
 
 This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-fences/blob/main/LICENSE).
+
+<!--  -->
+
+[download-link]: https://www.planetminecraft.com/texture-pack/mine-fences/
+[download-badge]: https://img.shields.io/badge/DOWNLOAD_PACK-.zip-41b883
