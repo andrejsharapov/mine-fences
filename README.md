@@ -31,7 +31,9 @@ MCTPMS - realistic texture pack with 3D models for Minecraft JE. Mine fences is 
 
 ## How to update to the latest version?
 
-1. Open `.zip` file with textures;
+We try to update the package version in a timely manner, but if you see that the game version has changed, you can update the package yourself.
+
+1. Unzip `mctpms-fences.zip` file with textures;
 2. Find and open `pack.mcmeta` through text editor;
 3. Change `pack_format` to the [latest version](https://minecraft.wiki/w/Pack_format#List_of_resource_pack_formats) of the game.
 
