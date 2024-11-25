@@ -1,6 +1,6 @@
 # Mine fences
 
-MCTPMS - 3d textures for minecraft (Java Edition). Mine fences is a small texture pack that changes the original appearance of fences and gates to a new one. Suitable for any resolution (16x16, 32x32, 64x64, 128x128, etc.). <p align="right">
+MCTPMS - realistic texture pack with 3D models for Minecraft JE. Mine fences is a small texture pack that changes the original appearance of fences and gates to a new one. Suitable for any resolution (16x16, 32x32, 64x64, 128x128, etc.). <p align="right">
   <img
     src="https://github.com/andrejsharapov/mine-fences/blob/main/pack.png?raw=true"
     alt="mine-fences"
@@ -16,18 +16,18 @@ MCTPMS - 3d textures for minecraft (Java Edition). Mine fences is a small textur
 
 | fence and gate | preview                                                                                           |
 | -------------- | ------------------------------------------------------------------------------------------------- |
-| acacia         | ![acacia](https://github.com/andrejsharapov/mine-fences/blob/main/fences/acacia.png?raw=true)     |
-| bamboo         | ![bamboo](https://github.com/andrejsharapov/mine-fences/blob/main/fences/bamboo.png?raw=true)     |
-| birch          | ![birch](https://github.com/andrejsharapov/mine-fences/blob/main/fences/birch.png?raw=true)       |
-| cherry         | ![cherry](https://github.com/andrejsharapov/mine-fences/blob/main/fences/cherry.png?raw=true)     |
-| crimson        | ![crimson](https://github.com/andrejsharapov/mine-fences/blob/main/fences/crimson.png?raw=true)   |
-| dark_oak       | ![dark_oak](https://github.com/andrejsharapov/mine-fences/blob/main/fences/dark_oak.png?raw=true) |
-| jungle         | ![jungle](https://github.com/andrejsharapov/mine-fences/blob/main/fences/jungle.png?raw=true)     |
-| mangrove       | ![mangrove](https://github.com/andrejsharapov/mine-fences/blob/main/fences/mangrove.png?raw=true) |
-| nether         | ![nether](https://github.com/andrejsharapov/mine-fences/blob/main/fences/nether.png?raw=true)     |
-| oak            | ![oak](https://github.com/andrejsharapov/mine-fences/blob/main/fences/oak.png?raw=true)           |
-| spruce         | ![spruce](https://github.com/andrejsharapov/mine-fences/blob/main/fences/spruce.png?raw=true)     |
-| warped         | ![warped](https://github.com/andrejsharapov/mine-fences/blob/main/fences/warped.png?raw=true)     |
+| acacia         | ![acacia](https://github.com/andrejsharapov/mine-fences/blob/main/src/acacia.png?raw=true)     |
+| bamboo         | ![bamboo](https://github.com/andrejsharapov/mine-fences/blob/main/src/bamboo.png?raw=true)     |
+| birch          | ![birch](https://github.com/andrejsharapov/mine-fences/blob/main/src/birch.png?raw=true)       |
+| cherry         | ![cherry](https://github.com/andrejsharapov/mine-fences/blob/main/src/cherry.png?raw=true)     |
+| crimson        | ![crimson](https://github.com/andrejsharapov/mine-fences/blob/main/src/crimson.png?raw=true)   |
+| dark_oak       | ![dark_oak](https://github.com/andrejsharapov/mine-fences/blob/main/src/dark_oak.png?raw=true) |
+| jungle         | ![jungle](https://github.com/andrejsharapov/mine-fences/blob/main/src/jungle.png?raw=true)     |
+| mangrove       | ![mangrove](https://github.com/andrejsharapov/mine-fences/blob/main/src/mangrove.png?raw=true) |
+| nether         | ![nether](https://github.com/andrejsharapov/mine-fences/blob/main/src/nether.png?raw=true)     |
+| oak            | ![oak](https://github.com/andrejsharapov/mine-fences/blob/main/src/oak.png?raw=true)           |
+| spruce         | ![spruce](https://github.com/andrejsharapov/mine-fences/blob/main/src/spruce.png?raw=true)     |
+| warped         | ![warped](https://github.com/andrejsharapov/mine-fences/blob/main/src/warped.png?raw=true)     |
 
 ## How to update to the latest version?
 
