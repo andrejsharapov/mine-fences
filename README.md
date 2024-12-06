@@ -2,14 +2,14 @@
 
 Mine fences is a small texture pack that changes the original look of fences and gates to a new one. Can be used both with classic textures and on top of any other texture pack.
 
-> [!NOTE]
+> [!NOTE]  
 > Does not require installation of *OptiFine* or other third-party programs!
   
 Suitable for any resolution: 16x16, 32x32, 64x64, 128x128, etc.  
 **MCTPMS** - realistic texture packs with 3D models for Minecraft JE. <p align="right">
   <img
     src="https://github.com/andrejsharapov/mine-fences/blob/main/pack.png?raw=true"
-    alt="mine-fences"
+    alt="mctpms-fences"
     width="128">
 </p>
 
@@ -44,4 +44,4 @@ This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-
 <!--  -->
 
 [download-link]: https://www.mediafire.com/file/hzp46ipsum38fx3/mctpms-fences-1.0.0.zip/file
-[download-badge]: https://img.shields.io/badge/mctpms_fences-download.zip-41b883
+[download-badge]: https://img.shields.io/badge/download-mctpms--fences.zip-d900bc
