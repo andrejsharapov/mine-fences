@@ -19,6 +19,20 @@ Join us on [discord](https://discord.gg/En8KcxdDra) to see more fences, suggest 
 
 ![preview](https://github.com/andrejsharapov/mine-fences/blob/m1.21.4/preview.png?raw=true)
 
+- [x] acacia
+- [x] bamboo
+- [x] birch
+- [x] cherry
+- [x] crimson
+- [x] dark_oak
+- [x] jungle
+- [x] mangrove
+- [x] nether
+- [x] oak
+- [x] pale_oak
+- [x] spruce
+- [x] warped
+
 [![download][download-badge]][download-link]
 
 ## How to update to the latest version?
