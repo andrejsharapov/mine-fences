@@ -1,33 +1,25 @@
 # Mine fences
 
-MCTPMS - realistic texture pack with 3D models for Minecraft JE. Mine fences is a small texture pack that changes the original appearance of fences and gates to a new one. Suitable for any resolution (16x16, 32x32, 64x64, 128x128, etc.). <p align="right">
+Mine fences is a small texture pack that changes the original look of fences and gates to a new one. Can be used both with classic textures and on top of any other texture pack.
+
+> [!NOTE]
+> Does not require installation of *OptiFine* or other third-party programs!
+  
+Suitable for any resolution: 16x16, 32x32, 64x64, 128x128, etc.  
+**MCTPMS** - realistic texture packs with 3D models for Minecraft JE. <p align="right">
   <img
     src="https://github.com/andrejsharapov/mine-fences/blob/main/pack.png?raw=true"
     alt="mine-fences"
     width="128">
 </p>
 
-> [!TIP]  
-> Join us on [discord](https://discord.gg/En8KcxdDra) to discuss the texture pack, offer ideas, or just talk about your favorite game.
-
 ## Fence and gate
 
-[![download][download-badge]][download-link]
+Join us on [discord](https://discord.gg/En8KcxdDra) to see more fences, suggest ideas, fix bugs, or just talk about your favorite game.
 
-| fence and gate | preview                                                                                           |
-| -------------- | ------------------------------------------------------------------------------------------------- |
-| acacia         | ![acacia](https://github.com/andrejsharapov/mine-fences/blob/main/src/acacia.png?raw=true)     |
-| bamboo         | ![bamboo](https://github.com/andrejsharapov/mine-fences/blob/main/src/bamboo.png?raw=true)     |
-| birch          | ![birch](https://github.com/andrejsharapov/mine-fences/blob/main/src/birch.png?raw=true)       |
-| cherry         | ![cherry](https://github.com/andrejsharapov/mine-fences/blob/main/src/cherry.png?raw=true)     |
-| crimson        | ![crimson](https://github.com/andrejsharapov/mine-fences/blob/main/src/crimson.png?raw=true)   |
-| dark_oak       | ![dark_oak](https://github.com/andrejsharapov/mine-fences/blob/main/src/dark_oak.png?raw=true) |
-| jungle         | ![jungle](https://github.com/andrejsharapov/mine-fences/blob/main/src/jungle.png?raw=true)     |
-| mangrove       | ![mangrove](https://github.com/andrejsharapov/mine-fences/blob/main/src/mangrove.png?raw=true) |
-| nether         | ![nether](https://github.com/andrejsharapov/mine-fences/blob/main/src/nether.png?raw=true)     |
-| oak            | ![oak](https://github.com/andrejsharapov/mine-fences/blob/main/src/oak.png?raw=true)           |
-| spruce         | ![spruce](https://github.com/andrejsharapov/mine-fences/blob/main/src/spruce.png?raw=true)     |
-| warped         | ![warped](https://github.com/andrejsharapov/mine-fences/blob/main/src/warped.png?raw=true)     |
+![preview](https://github.com/andrejsharapov/mine-fences/blob/m1.21.4/preview.png?raw=true)
+
+[![download][download-badge]][download-link]
 
 ## How to update to the latest version?
 
@@ -40,7 +32,7 @@ We try to update the package version in a timely manner, but if you see that the
 ```js
 {
   "pack": {
-    "pack_format": 42,
+    "pack_format": 46, // for m1.21.4
   }
 }
 ```
@@ -52,4 +44,4 @@ This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-
 <!--  -->
 
 [download-link]: https://www.planetminecraft.com/texture-pack/mine-fences/
-[download-badge]: https://img.shields.io/badge/DOWNLOAD_PACK-.zip-41b883
+[download-badge]: https://img.shields.io/badge/mctpms_fence-download.zip-41b883
