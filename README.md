@@ -43,5 +43,5 @@ This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-
 
 <!--  -->
 
-[download-link]: https://www.mediafire.com/file/hzp46ipsum38fx3/mctpms-fences-1.0.0.zip/file
+[download-link]: https://www.mediafire.com/file/hzp46ipsum38fx3/mctpms-fences-1.1.0.zip/file
 [download-badge]: https://img.shields.io/badge/download-mctpms--fences.zip-d900bc
