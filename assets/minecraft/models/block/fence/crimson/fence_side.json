@@ -3,8 +3,8 @@
 	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/crimson_planks",
-		"texture": "block/crimson_planks"
+		"particle": "block/stripped_crimson_stem",
+		"texture": "block/stripped_crimson_stem"
 	},
 	"elements": [
 		{
