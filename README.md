@@ -13,7 +13,7 @@ Suitable for any resolution: 16x16, 32x32, 64x64, 128x128, etc.
     width="128">
 </p>
 
-## Fence and gate
+## Fences and gates
 
 Join us on [discord](https://discord.gg/En8KcxdDra) to see more fences, suggest ideas, fix bugs, or just talk about your favorite game.
 
@@ -44,4 +44,4 @@ This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-
 <!--  -->
 
 [download-link]: https://www.mediafire.com/file/hzp46ipsum38fx3/mctpms-fences-1.0.0.zip/file
-[download-badge]: https://img.shields.io/badge/mctpms_fence-download.zip-41b883
+[download-badge]: https://img.shields.io/badge/mctpms_fences-download.zip-41b883
