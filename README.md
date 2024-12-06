@@ -43,5 +43,5 @@ This is licensed under the [MIT license](https://github.com/andrejsharapov/mine-
 
 <!--  -->
 
-[download-link]: https://www.planetminecraft.com/texture-pack/mine-fences/
+[download-link]: https://www.mediafire.com/file/hzp46ipsum38fx3/mctpms-fences-1.0.0.zip/file
 [download-badge]: https://img.shields.io/badge/mctpms_fence-download.zip-41b883
